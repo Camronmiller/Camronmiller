@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Camronmiller
-- 👀 I’m interested in software development and connecting with other developers
-- 🌱 I’m currently learning development utilizing Salesforce
+- 👀 I’m interested in software development, learning new techniques and technology, and connecting with other developers
+- 🌱 I’m currently learning development utilizing Salesforce, Python, and Java.
 - 📫 Contact me at camronmiller11@gmail.com
 
 <!---
